@@ -1,0 +1,17 @@
+name: example-environment
+channels:
+  - conda-forge
+  - plotly
+  - default
+dependencies:
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
+  - chart-studio
+  - plotly
